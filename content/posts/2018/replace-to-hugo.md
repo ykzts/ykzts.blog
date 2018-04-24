@@ -1,8 +1,8 @@
 ---
 categories:
   - technology
-lastmod: 2018-04-24T20:00:00+09:00
-publishdate: 2018-04-24T00:00:00+09:00
+lastmod: 2018-04-24T23:30:00+09:00
+publishdate: 2018-04-24T23:30:00+09:00
 tags:
   - Hugo
 title: ブログのシステムをWordPressからHugoに変更しました
