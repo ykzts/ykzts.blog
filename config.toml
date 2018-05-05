@@ -14,7 +14,7 @@ title = "ykzts.blog"
 
 [params.sections]
   "/" = "Home"
-  "/about" = "About"
+  "/about/" = "About"
 
 [permalinks]
   post = "/:year/:month/:day/:filename/"
