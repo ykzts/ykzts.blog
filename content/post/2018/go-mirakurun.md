@@ -9,7 +9,7 @@ tags:
 title: GoのMirakurunクライアントパッケージを公開しました
 ---
 
-[Go](https://golang.org/)で[Mirakurun](https://github.com/Chinachu/Mirakurun)のWeb APIを利用するためのクライアントパッケージ [go-mirakurun](https://github.com/ykzts/go-mirakurun)を公開しました。
+[Go](https://golang.org/)で[Mirakurun](https://github.com/Chinachu/Mirakurun)のWeb APIを利用するためのクライアントパッケージ [go-mirakurun](https://github.com/ykzts/go-mirakurun)を公開しました。<!--more-->
 
 ```go
 import "ykzts.com/x/mirakurun"
