@@ -8,3 +8,7 @@ http://blog.desire.sh/feed/ https://ykzts.blog/index.xml 301!
 http://blog.desire.sh/* https://ykzts.blog/:splat 301!
 https://ykzts-blog.netlify.com/* https://ykzts.blog/:splat 301!
 http://ykzts-blog.netlify.com/* https://ykzts.blog/:splat 301!
+
+
+http://overknee.info/2006/05/26/020009 https://ykzts.blog/2006/05/26/unread-novels 301!
+http://overknee.info/2006/05/27/190142 https://ykzts.blog/2006/05/27/desktop-baton 301!
