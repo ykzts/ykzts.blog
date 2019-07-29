@@ -6,7 +6,7 @@ const NotFoundPage: FC = (): ReactElement => {
   return (
     <Layout>
       <Helmet defer={false}>
-        <title>404 Not Found<title>
+        <title>404 Not Found</title>
       </Helmet>
 
       <p>404</p>
