@@ -110,7 +110,7 @@
     "url": "https://github.com/ykzts/ykzts.blog.git"
   },
   "resolutions": {
-    "sharp": "^0.24.1"
+    "sharp": "^0.25.2"
   },
   "scripts": {
     "build": "gatsby build",
