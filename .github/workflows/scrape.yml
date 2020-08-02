@@ -2,7 +2,7 @@ name: DocSearch Scraper
 
 on:
   schedule:
-    - cron: '14 3-21/6 * * *'
+    - cron: '28 3-21/6 * * *'
 
 jobs:
   scrape:
