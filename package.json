@@ -25,6 +25,9 @@
     "extends": [
       "@inabagumi/react"
     ],
+    "parserOptions": {
+      "project": "tsconfig.json"
+    },
     "root": true
   },
   "homepage": "https://ykzts.blog/",
