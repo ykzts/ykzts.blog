@@ -34,7 +34,7 @@
   },
   "sitemap_alternate_links": true,
   "sitemap_urls": ["https://ykzts.blog/sitemap.xml"],
-  "start_urls": [],
+  "start_urls": ["https://ykzts.blog/"],
   "strip_chars": " .,;:#",
-  "stop_urls": ["https://ykzts.blog/tags/.+", "https://ykzts.blog/page/\\d+"]
+  "stop_urls": []
 }
