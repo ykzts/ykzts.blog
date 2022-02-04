@@ -41,6 +41,9 @@ module.exports = {
             description,
             type: 'atom'
           },
+          gtag: {
+            trackingID: 'UA-97395750-2'
+          },
           path: 'blog',
           postsPerPage: 5,
           routeBasePath: '/',
@@ -118,9 +121,6 @@ module.exports = {
           }
         ],
         style: 'dark'
-      },
-      gtag: {
-        trackingID: 'UA-97395750-2'
       },
       image: 'img/main-visual.png',
       metadata: [
