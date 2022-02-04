@@ -41,15 +41,15 @@ module.exports = {
             description,
             type: 'atom'
           },
-          gtag: {
-            trackingID: 'UA-97395750-2'
-          },
           path: 'blog',
           postsPerPage: 5,
           routeBasePath: '/',
           showReadingTime: false
         },
         docs: false,
+        gtag: {
+          trackingID: 'UA-97395750-2'
+        },
         sitemap: {}
       })
     ]
