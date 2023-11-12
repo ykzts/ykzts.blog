@@ -5,14 +5,14 @@
     "url": "https://github.com/ykzts/ykzts.blog/issues"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.3",
-    "@docusaurus/preset-classic": "^2.4.3",
+    "@docusaurus/core": "^3.0.0",
+    "@docusaurus/preset-classic": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "description": "This repository contains a source files for ykzts.blog.",
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.4.3",
+    "@docusaurus/module-type-aliases": "^3.0.0",
     "@tsconfig/docusaurus": "^2.0.2",
     "@types/eslint": "^8.44.7",
     "@types/react": "^18.2.37",
